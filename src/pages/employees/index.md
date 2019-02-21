@@ -1,6 +1,5 @@
 ---
-templateKey: 'employees-page'
-path: /employees
+templateKey: employees-page
 title: Our employees
 ---
 ### Shade-grown coffee
