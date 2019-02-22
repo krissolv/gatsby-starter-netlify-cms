@@ -66,11 +66,11 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "office"
-      label: "Office"
-      folder: "src/pages/office"
-      create: true
-      fields:
-        - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Description", name: "description", widget: "text"}
-        - {label: "Body", name: "body", widget: "markdown"}
+    label: "Office"
+    folder: "src/pages/office"
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
